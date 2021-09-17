@@ -9,4 +9,4 @@ CODE!
 
 코드
 
-$code
+$ code
