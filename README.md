@@ -1,6 +1,6 @@
 # ruby_first_blog
 <details>
-<summary>Click to toggle contents of `code`</summary>
+  <summary><strong>Click to toggle contents of `code`</strong></summary>
 ```
 CODE!
 ```
